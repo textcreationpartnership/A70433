@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from His Holiness the Pope, to the most illustrious Protestant prince, James Duke of Monmouth</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70433</idno><idno type="EEBO-CITATION">11861861_50021</idno>
+  <idno type="VID">50021</idno>
+  <idno type="EEBO-PROQUEST">2264212860</idno>
+  
+            <idno type="STC">Wing L1473</idno>
+            <idno type="STC">ESTC R17288</idno>
+            <idno type="OCLC">11861861</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:31 or 1152:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from His Holiness the Pope, to the most illustrious Protestant prince, James Duke of Monmouth</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This item appears at reel 498:31 as Wing I201A (number cancelled in Wing (CD-ROM, 1996)), and at reel 1152:7 as Wing L1473.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Innocent --  XI, --  Pope, 1611-1689 --  Humor.</term>
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685 --  Humor.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50021:1"/>
+            <head>A LETTER FROM <hi>His Holiness the Pope,</hi> To the most illustrious Protestant Prince, JAMES DUKE of <hi>MONMOƲTH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE are credibly inform'd, not only from our undaunted Midwife, the Priests and Jesuits in <hi>Newgate,</hi> and our Trusty and well beloved Lords in the <hi>Tower,</hi> but from many others of great worth and quality, that were it not for the King and you, and that old <hi>Achito<g ref="char:EOLhyphen"/>phel</hi> (as we call him) in <hi>Aldersgate</hi>-street, our access to our <hi>quondam See</hi> might with little difficulty be obtain'd. You are the Pillars that support the Principles of those damn'd Hereticks, called Protestant-Dissenters. In our Name and in the Name of the Virgin <hi>Mary,</hi> we desire you to forsake their Society, and timely turn to us, that your Ab<g ref="char:EOLhyphen"/>solution may be Seal'd; if not, know that we will leave no stone un<g ref="char:EOLhyphen"/>turn'd, to work your Ruine, if <hi>Godfreys</hi> Cravat will not fit your neck, nor a <hi>Musquetoon</hi> pierce your Body, we have an hundred little ways to work your overthrow; what a Dagger cannot do, Poyson may; and when a publick attempt shall miscarry, a private Assassination may do the job. Sir, you are the Mote in our eye that must be plucked out, you are as a Thorn in our side, and we will never leave our Plots and shamplots till we either reconcile you to us, or see you safely lodged with your Comrade <hi>Thynn.</hi> If it be preferment you aim at, truckle to us and we will give you even what your heart desires. Be but active to destroy the Protestants and we will give you one part of our Triple-Crown. Why should you part with your preferments, and let go your Royal interest, to side with a parcel of discontented Whigs, that covet nothing more, than to see our Infallibility laid waste? See you not how the Abhorrors swarm in every City? Strike in betimes and make one amongst them, it may be the means of your preservati<g ref="char:EOLhyphen"/>on in the day of our Visitation, for let me tell you, we bid fair for a Footing amongst you. Have you not read our <hi>Observator, Heraclitus,</hi> and <hi>Staffords Memoirs;</hi> and a little hundred of those bold Boys, how they exalt their Heads above their fellows? and even spit in that mans Face that dare but speak kindly of an English-Protestant, or speak a word in favour of a Serious sober wellmeaning man do you not see how they jerk them and lash them even to death if they but appear in a true Protestant habit, why these are the Fellows that dreine our
+<pb facs="tcp:50021:2"/>Coffers, these are they that will chalk you out the way to our Commu<g ref="char:EOLhyphen"/>nion and Fellowship, these are our infallible guides, that will even do or say any thing that advantage our interest, but above all, have you not taken notice of <hi>Thompson,</hi> there's a true Popish Lad drest up in a pair of Protestant breeches, he will say, and gain say. swear and forswear all in a breath. This hour he'l make the Papists Murther Sir <hi>Edmund Berry Godfrey</hi> and the next hour he'l make him Murther himself, these are <hi>Hocus Pocus</hi> Artifices us'd for the Advancement of our Pomp, and the inlargment of our Territoryes, and be confident that their Service is Sufficiently requited, but now know, should we gain one <hi>Monmouth,</hi> he would be worth ten thousand such tools as they though they are Ser<g ref="char:EOLhyphen"/>viceable enough in the lower orb. we gain our point if we gain but you, you are the oyl that makes the Dissenters wheels to run, you are their Demy God, they admire you, they love you, they honour you, nay they almost adore you, you are their Oracle, their guid, their Bull<g ref="char:EOLhyphen"/>work of defence.</p>
+            <p>Could we but make a breach upon you, we could readily make them strike their Topsails, to us. We could put Beads in their hands, and Crucifixes in their pockets, and when thats done Ropes about their Necks or Knifes to their Throats, were it not for their confidence of your Love and respects to them. Could we but conquer you with love; we could conquer them with wrath: could we but make you es<g ref="char:EOLhyphen"/>pouse our Cause, and be Captain General over our Forces, we could make them sing <hi>Te Deum's</hi> with us and hang them for their Musick. Would you sleep in safety, and walk securely, without the fear of Po<g ref="char:EOLhyphen"/>pish Designes? then turn unto us and abandon the Advice of the old Earl, and forsake the Company of the protesting Lords; if not, know we have many Moles that are digging under the very foundation of your Palace, at <hi>So Hoe,</hi> we have many little Emissaryes in <hi>England</hi> to destroy you, go you to the <hi>park.</hi> Have a care of <hi>Pickerings</hi> Gun: go you through the <hi>Strand?</hi> bewar of <hi>Sommerset-House,</hi> go you to my Lord <hi>Essex?</hi> take heed of the <hi>Musquetoon,</hi> go you to <hi>Windsor?</hi> there, <hi>Ruffians</hi> are like Lyons in the way. Go you to <hi>Sussex?</hi> thither <hi>Thomsons</hi> Libels will per<g ref="char:EOLhyphen"/>sue you. So that you shall no way be safe either in your person or re<g ref="char:EOLhyphen"/>pute. Our Hackney Devils shall find you at <hi>Milend Green,</hi> at every Club you go to, and when they cannot get a Seasonable oppertunity to bite you, they'l bark at you at least, they'l shew their Teeth and grin, when they can do nothing more. Heare you not an Excommu<g ref="char:EOLhyphen"/>nication, are not our Bulls Sufficient to affright you, dare you venture to fall under our direful Curse, when Kings and Princes tremble at the thoughts on't? Have a care of provoking our Holyness to any further displeasure, least we swear in our wrath an infallible Oath, that you shall never herafter enter into our Society if you now neglect so kind an offer. If you do not speedily close with our tenders of mercy, woe be to you when we come to erect our Monuments in <hi>Smithfield,</hi> and make Bonefires in the Protestant meetings. Woe be to you when we come to take vengeance on all those that have shed the blood of Saint <hi>Coleman,</hi> Saint <hi>Staley</hi> Saint <hi>Plunket,</hi> &amp;c.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. Johnson.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
